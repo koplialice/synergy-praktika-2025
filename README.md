@@ -1,0 +1,1 @@
+# synergy-praktika-2025
