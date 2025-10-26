@@ -96,7 +96,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 SocialHub. All Rights Reserved.</p>
+        <p>&copy; 2025 SocialHub. All Rights Reserved.</p>
     </footer>
 
     <script src="scripts.js"></script>

@@ -70,7 +70,7 @@ Travel Diary Website
     </main>
 
     <footer>
-        <p>&copy; 2024 Travel Diary. All rights reserved.</p>
+        <p>&copy; 2025 Travel Diary. All rights reserved.</p>
     </footer>
 
     <script src="scripts.js"></script>
